@@ -1,0 +1,3 @@
+android:background="@color/colorScreenBackground"
+
+android:src="@drawable/ic_add_black_24dp"

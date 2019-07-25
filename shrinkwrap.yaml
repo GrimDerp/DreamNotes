@@ -1,4 +1,5 @@
 dependencies:
+  angular: 1.7.8
   express: 4.16.3
   sqlite3: 4.0.9
 packages:
@@ -24,6 +25,10 @@ packages:
     dev: false
     resolution:
       integrity: sha512-TXtUUEYHuaTEbLZWIKUr5pmBuhDLy+8KYtPYdcV8qC+pOZL+NKqYwvWSRrVXHn+ZmRRAu8vJTAznH7Oag6RVRw==
+  /angular/1.7.8:
+    dev: false
+    resolution:
+      integrity: sha512-wtef/y4COxM7ZVhddd7JtAAhyYObq9YXKar9tsW7558BImeVYteJiTxCKeJOL45lJ/+7B4wrAC49j8gTFYEthg==
   /ansi-regex/2.1.1:
     dev: false
     engines:
@@ -1128,5 +1133,6 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
+  angular: ^1.7.8
   express: ^4.16.3
   sqlite3: ^4.0.8
