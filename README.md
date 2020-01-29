@@ -1,7 +1,7 @@
 Welcome to DreamNotes
 =================
 
-An variation of SleepyNotes in js and Kotlin, built on Glitch.com.
+An variation of SleepyNotes Kotlin, built on Glitch.com.
 
 
 
